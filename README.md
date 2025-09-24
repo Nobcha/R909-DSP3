@@ -1,4 +1,4 @@
-# R909-DSP3
+# R909-DSP4
 R909-DSP3 is an air band radio with ESP32-C3+TA2002+Si5351a+Si4732+TDA2822 @ 3.9V.
 
 R909-DSP3 is the follower of R909-DSP1(R909-SDR). I changed ATmega-328p of UNO with ESP32-C32 to enlarge the memory size and CPU power.
